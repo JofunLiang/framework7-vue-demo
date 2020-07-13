@@ -2,6 +2,11 @@
 
 Vue项目使用 Framework7-Vue 组件库示例。
 
+## 安装依赖
+```
+npm install
+```
+
 ## 运行项目
 ```
 npm run serve
